@@ -3,8 +3,8 @@
 
 ## 개발자
 
-+ 팀원 구성: 나동빈, 장승훈, 김세아, 강경민, 이상수
-+ 팀 매니저: 안득하
++ 개발자: 박한신
++ 개발 팀원: 
 
 ## 특징
 
@@ -46,13 +46,7 @@ NODE_ENV=development sudo npm run build:dll
 
 ## 향후 개발 방향
 + 향후 본 서버에서 추출된 사용자 채점 정보를 이용해 학생들의 수준을 판별하고 분류합니다.
-60
+
 + REST API를 활용한 Micro Service 원칙을 철저하게 따릅니다.
-61
-​
-62
 ## 오픈소스 라이센스
-63
-​
-64
 [MIT](http://opensource.org/licenses/MIT)
